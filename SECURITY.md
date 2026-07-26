@@ -2,6 +2,8 @@
 
 Please do not publish vulnerability details in a public issue or pull request.
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability privately
 
-To report a vulnerability privately, go to the ```Security and quality``` tab, click the ```Report a vulnerability``` button, and fill in the necessary details.
+1. Go to the ```Security and quality``` tab
+2. Click the ```Report a vulnerability``` button
+3. Fill in the necessary details.
